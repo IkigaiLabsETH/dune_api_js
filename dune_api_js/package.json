@@ -2,7 +2,6 @@
   "name": "dune_api_js",
   "version": "1.0.0",
   "description": "",
-  "type": "module",
   "main": "index.js",
   "module": "main.js",
   "scripts": {
@@ -10,9 +9,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "latest": "^0.2.0",
-    "node-fetch": "^3.3.2"
-  }
+  "license": "ISC"
 }
